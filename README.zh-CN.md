@@ -52,6 +52,7 @@
 ### UI 框架
 
 - [UnoCSS](https://github.com/antfu/unocss) - 高性能且极具灵活性的即时原子化 CSS 引擎
+- [Element Plus](https://github.com/element-plus/element-plus) - 基于 Vue 3，面向设计师和开发者的组件库
 
 ### Icons
 

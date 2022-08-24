@@ -52,6 +52,7 @@
 ### UI Frameworks
 
 - [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- [Element Plus](https://github.com/element-plus/element-plus) - a Vue 3 based component library for designers and developers
 
 ### Icons
 
