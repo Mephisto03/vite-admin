@@ -2,7 +2,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/hmingv/vite-admin/blob/main/README.md">English</a> | <b>简体中文</b>
+<a href="https://github.com/code-farmer-team/vite-admin/blob/main/README.md">English</a> | <b>简体中文</b>
 </p>
 
 <br>
@@ -105,14 +105,14 @@
 
 ### GitHub 模板
 
-[使用这个模板创建仓库](https://github.com/hmingv/vite-admin/generate).
+[使用这个模板创建仓库](https://github.com/code-farmer-team/vite-admin/generate).
 
 ### 克隆到本地
 
 如果您更喜欢使用更干净的 git 历史记录手动执行此操作
 
 ```bash
-git clone https://github.com/hmingv/vite-admin my-vite-admin
+git clone https://github.com/code-farmer-team/vite-admin my-vite-admin
 
 cd my-vite-admin
 

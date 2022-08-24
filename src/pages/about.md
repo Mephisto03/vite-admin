@@ -8,6 +8,6 @@ title: About
   <h3>About</h3>
 </div>
 
-[Vite Admin](https://github.com/hmingv/vite-admin) is a front-end solution for the background management system that can be started quickly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
+[Vite Admin](https://github.com/code-farmer-team/vite-admin) is a front-end solution for the background management system that can be started quickly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
 
-Check out the [GitHub repo](https://github.com/hmingv/vite-admin) for more details.
+Check out the [GitHub repo](https://github.com/code-farmer-team/vite-admin) for more details.

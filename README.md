@@ -3,7 +3,7 @@
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/hmingv/vite-admin/blob/main/README.zh-CN.md">简体中文</a>
+<b>English</b> | <a href="https://github.com/code-farmer-team/vite-admin/blob/main/README.zh-CN.md">简体中文</a>
 <!-- Contributors: Thanks for getting interested, however we DON'T accept new transitions to the README, thanks. -->
 </p>
 
@@ -105,12 +105,12 @@
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/hmingv/vite-admin/generate).
+[Create a repo from this template on GitHub](https://github.com/code-farmer-team/vite-admin/generate).
 
 ### Clone to local
 
 ```bash
-git clone https://github.com/hmingv/vite-admin my-vite-admin
+git clone https://github.com/code-farmer-team/vite-admin my-vite-admin
 
 cd my-vite-admin
 

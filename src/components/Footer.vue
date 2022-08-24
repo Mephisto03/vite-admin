@@ -26,7 +26,7 @@ const toggleLocales = () => {
       <div i-carbon-dicom-overlay />
     </RouterLink>
 
-    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/hmingv/vite-admin" target="_blank" title="GitHub">
+    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/code-farmer-team/vite-admin" target="_blank" title="GitHub">
       <div i-carbon-logo-github />
     </a>
   </nav>

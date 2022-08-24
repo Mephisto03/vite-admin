@@ -17,7 +17,7 @@ const { t } = useI18n()
       <div i-carbon-campsite inline-block />
     </div>
     <p>
-      <a rel="noreferrer" href="https://github.com/hmingv/vite-admin" target="_blank">
+      <a rel="noreferrer" href="https://github.com/code-farmer-team/vite-admin" target="_blank">
         Vite Admin
       </a>
     </p>
