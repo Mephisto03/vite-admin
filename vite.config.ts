@@ -31,6 +31,8 @@ export default defineConfig({
     // https://github.com/hannoeru/vite-plugin-pages
     Pages({
       extensions: ['vue', 'md'],
+      // https://github.com/hannoeru/vite-plugin-pages#exclude
+      exclude: ['**/components/*.vue'],
     }),
 
     // https://github.com/JohnCampionJr/vite-plugin-vue-layouts
