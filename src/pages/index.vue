@@ -61,4 +61,5 @@ const { t } = useI18n()
 <route lang="yaml">
 meta:
   layout: home
+  auth: false
 </route>
