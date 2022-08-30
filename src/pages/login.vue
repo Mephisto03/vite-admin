@@ -7,8 +7,7 @@ const route = useRoute()
 
 const login = () => {
   user.hasAuth = true
-  console.log(user)
-  router.push(route.query?.redirectURL || '/')
+  router.push(`${route.query.redirectURL || '/'}`)
 }
 </script>
 
